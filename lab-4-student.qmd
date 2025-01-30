@@ -1,9 +1,15 @@
 ---
 title: "Lab 4: Childcare Costs in California"
-author: "Your name here!"
+author: "Eddie Cagney"
 format: html
 editor: source
 embed-resources: true
+code-fold: true
+execute: 
+  echo: true
+  error: true
+  message: false
+  warning: false
 ---
 
 ## The Data
